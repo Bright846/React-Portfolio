@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Weahte app",
+        "description":"A weather app that provides weather report using robust weather API",
+        "skills": ["HTML", "CSS", "JAVSCRIPT"],
+        "source":"https://www.demo.com",
+        "imageSrc":"project/weather app.webp"
+    },
+    {
+        "title":"TO DO app",
+        "description":"A simple TO DO app built with JS that allows user to create, manage the tasks",
+        "skills": ["HTML", "CSS", "JAVSCRIPT"],
+        "source":"https://www.demo.com",
+        "imageSrc":"project/to do.jpg"
+    },
+    {
+        "title":"QR CODE Genrator",
+        "description":"Simple QR CODE generator that generates QR code of any text, links",
+        "skills": ["HTML", "CSS", "JAVSCRIPT"],
+        "source":"https://www.demo.com",
+        "imageSrc":"project/qr code.png"
+    }
+]
